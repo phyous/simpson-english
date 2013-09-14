@@ -2,7 +2,7 @@ simpson-english
 ====
 
 A script that generates random broken english sentences inspired by The Simpsons. Uses a frequency dictionary based on
-OpenSubtitles of all Simpson Episodes (in english).
+OpenSubtitles of all Simpson episodes (in english).
 
 Usage examples:
 ```
